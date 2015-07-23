@@ -1,0 +1,12 @@
+	{
+  "key1": {
+    "username": "",
+    "keyLocation": "",
+    "passphrase":""
+  },
+  "privateKeyCustom": {
+    "username": "",
+    "passphrase": "",
+    "keyLocation": ""
+  }
+}
