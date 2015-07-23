@@ -1,5 +1,6 @@
 # kodos
 
+![Alt text](http://abraham.brm.com.co/lafabricadecajas/images/iconos/kodos.png "Optional title")
 
 GITFTP
 
